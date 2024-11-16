@@ -1,0 +1,63 @@
+- title: Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs
+  month: Oct
+  year: 2024
+  publisher:
+    - url: https://machinelearning.apple.com/research/cultural-translation
+      name: Apple Machine Learning Research
+
+- title: ConvKGYarn Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models
+  month: Oct
+  year: 2024
+  publisher:
+    - url: https://machinelearning.apple.com/research/convkgyarn-datasets
+      name: Apple Machine Learning Research
+
+- title: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models
+  month: Aug
+  year: 2024
+  publisher:
+    - url: https://machinelearning.apple.com/research/spinning-configurable-scalable
+      name: Apple Machine Learning Research
+
+- title: AGRaME Any Granularity Ranking with Multi-Vector Embeddings
+  month: Jun
+  year: 2024
+  publisher:
+    - url: https://machinelearning.apple.com/research/agrame
+      name: Apple Machine Learning Research
+
+- title: Entity Disambiguation via Fusion Entity Decoding
+  month: Aug
+  year: 2024
+  publisher:
+    - url: https://machinelearning.apple.com/research/entity-disambiguation-fusion-decoding
+      name: Apple Machine Learning Research
+
+- title: Under the hood - all the natural language understanding technology that makes Watson Assistant powerful
+  month: May 26
+  year: 2021
+  publisher:
+    - url: https://medium.com/ibm-watson/under-the-hood-all-the-natural-language-understanding-technology-that-makes-watson-assistant-fb8aaaca2f16
+      name: Medium - All the natural language understanding technology that makes Watson Assistant so powerful.
+
+- title: AI Lifecycle for Virtual Assistants
+  month: Apr 23
+  year: 2021
+  publisher:
+    - url: https://medium.com/ibm-watson/better-than-before-ai-lifecycle-for-virtual-assistants-df5fdaf32555
+      name: Medium- While deploying virtual assistants it is important to focus on building conversational experiences which work seamlessly.
+
+- title: Why Zero-Effort Irrelevance is Relevant
+  month: Nov 14
+  year: 2019
+  publisher:
+    - url: https://medium.com/ibm-watson/enhanced-offtopic-90b2dadf0ef1
+      name: Medium - How We Designed the New Zero-Effort Irrelevant Question Detection Feature in Watson Assistant
+
+- title: A New State-of-the-Art Method for Relation Extraction
+  month: Jul 29
+  year: 2019
+  publisher:
+    - url: https://mitibmwatsonailab.mit.edu/research/blog/extracting-multiple-relations-in-one-pass-with-pre-trained-transformers/
+      name: IBM Research - IBM Research AI and IBM Watson worked together to develop a promising method that achieves state-of-the-art performance on relation extraction.
+

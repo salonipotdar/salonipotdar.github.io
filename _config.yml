@@ -1,0 +1,37 @@
+title: Saloni Potdar
+tagline: Senior AI/ML Manager @ Apple
+domain: salonipotdar.github.io
+url: https://salonipotdar.github.io
+description: Saloni Potdar is a Senior AIML Manager at Apple working on Natural Language Processing and Machine Learning.
+favicon: <i class="fa-solid fa-i"></i> # this is useless. Look at pngs in the `icons/` folder and change
+baseurl: ""
+# gems: [jekyll-paginate]
+# paginate: 5
+
+# Use of `relative_permalinks` ensures post links from the index work properly.
+# permalink: "/:title"
+# relative_permalinks: true
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+author:
+  name: Saloni Potdar
+  url: https://salonipotdar.github.io
+  email: s_potdar-at-apple.com
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    default_lang: html
+    css_class: 'syntax'
+
+excerpt_separator: <!--more-->
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from

@@ -1,0 +1,769 @@
+---
+
+
+- id: cross-cultural
+  authors:
+    - Simone Conia
+    - Daniel Lee
+    - Min Li
+    - Umar Farooq Minhas
+    - Saloni Potdar
+    - Yunyao Li
+  title: Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs
+  venue: EMNLP (Main Track)
+  year: 2024
+  award: Outstanding Paper
+  type: conference
+  pdf: https://arxiv.org/pdf/2410.14057
+
+
+- id: agrame
+  authors:
+    - Revanth Gangi Reddy
+    - Omar Attia
+    - Yunyao Li
+    - Heng Ji
+    - Saloni Potdar
+
+  title: AGRaME Any-Granularity Ranking with Multi-Vector Embeddings
+  venue: EMNLP (Main Track)
+  year: 2024
+  type: conference
+  pdf: https://arxiv.org/abs/2405.15028
+
+
+
+- id: convkgyarn
+  authors:
+    - Ronak Pradeep
+    - Daniel Lee
+    - Ali Mousavi
+    - Jeff Pound
+    - Yisi Sang
+    - Jimmy Lin
+    - Ihab Ilyas
+    - Saloni Potdar
+    - Mostafa Arefiyan
+    - Yunyao Li
+  title: ConvKGYarn Spinning Configurable and Scalable Conversational Knowledge Graph QA datasets with Large Language Models
+  venue: EMNLP (Industry Track)
+  year: 2024
+  type: conference
+  pdf: https://arxiv.org/pdf/2408.05948
+
+- id: entity-disamb
+  authors:
+    - Junxiong Wang
+    - Ali Mousavi
+    - Omar Attia
+    - Saloni Potdar
+    - Alexander Rush
+    - Umar Farooq Minhas
+    - Yunyao Li
+  title: Entity Disambiguation via Fusion Entity Decoding
+  venue: NAACL (Main Track)
+  year: 2024
+  type: conference
+  pdf: https://arxiv.org/pdf/2404.01626
+
+
+- id: english-accent
+  authors:
+    - Yanzhu Guo
+    - Simone Conia
+    - Zelin Zhou
+    - Min Li
+    - Saloni Potdar
+    - Henry Xiao
+  title: Do Large Language Models Have an English Accent? Evaluating and Improving the Naturalness of Multilingual LLMs
+  venue: arXiv preprint
+  year: 2024
+  type: conference
+  pdf: https://arxiv.org/pdf/2410.15956
+
+
+- id: patent-response-modes
+  authors:
+    - Matthew Richard Arnold
+    - Eric Donald Wayne
+    - Saloni Potdar
+  title: Configuring artificial intelligence-based virtual assistants using response modes
+  venue: US Patent App. 18085257
+  year: 2024
+  type: patent
+  pdf:
+
+- id: patent-split-layer
+  authors:
+    - Lin Pan
+    - Haode Qi
+    - Ladislav Kunc
+    - Saloni Potdar
+  title: Pretraining of Split Layer Portions for Multilingual Model
+  venue: US Patent App. 18063788
+  year: 2024
+  type: patent
+  pdf: https://patents.google.com/patent/US20240193377A1/en
+
+
+- id: patent-ood-ai
+  authors:
+    - Cheng Qian
+    - Haode Qi
+    - Saloni Potdar
+    - Ladislav Kunc
+  title: Detecting out-of-domain text data in dialog systems using artificial intelligence
+  venue: US Patent App. 17/897,887
+  year: 2024
+  type: patent
+  pdf: https://patents.google.com/patent/US20240070401A1/en
+
+- id: patent-ood-sentence
+  authors:
+    - Haode Qi
+    - Cheng Qian
+    - Ladislav Kunc
+    - Saloni Potdar
+    - Eric Wayne
+  title: Out of domain sentence detection
+  venue: US Patent App. US17/815,630
+  year: 2024
+  type: patent
+  pdf: https://patents.google.com/patent/US20240037331A1/en
+
+- id: wamlm-3
+  authors:
+    - Dmitri Goldenberg
+    - Elena Sokolova
+    - Shir Meir Lador
+    - Irina Vasilinetc
+    - Lin Lee Cheong
+    - Mohak Sukhwani
+    - Saloni Potdar
+  title: The Third Workshop on Applied Machine Learning Management
+  venue: Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+  year: 2024
+  type: workshop
+  pdf: https://dl.acm.org/doi/abs/10.1145/3637528.3671478
+
+
+- id: wamlm-2
+  authors:
+    - Dmitri Goldenberg
+    - Chana Ross
+    - Shir Meir Lador
+    - Lin Lee Cheong
+    - Panpan Xu
+    - Elena Sokolova
+    - Amit Mandelbaum
+    - Irina Vasilinetc
+    - Ankit Jain
+    - Amit Weil Modlinger
+    - Saloni Potdar
+  title: The Second Workshop on Applied Machine Learning Management
+  venue: Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+  year: 2023
+  type: workshop
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3580305.3599206
+
+- id: patent-multilingual-chatlogs
+  authors:
+    - Haode Qi
+    - Lin Pan
+    - Abhishek Shah
+    - Ladislav Kunc
+    - Saloni Potdar
+  title: Conversational AI with multi-lingual human chatlogs
+  venue: US Patent 11,853,712
+  year: 2023
+  type: patent
+  pdf: https://patents.google.com/patent/US11853712B2/en
+
+
+- id: patent-ood-encoder
+  authors: 
+  - Ming Tan
+  - Dakuo Wang
+  - Mo Yu 
+  - Haoyu Wang 
+  - Yang Yu
+  - Shiyu Chang
+  - Saloni Potdar
+  title: Out-of-domain encoder training
+  venue: US Patent 11,645,514
+  year: 2023
+  type: patent
+  pdf: https://patents.google.com/patent/US11645514B2/en
+
+- id: patent-model-compression
+  authors:
+    - Haoyu Wang
+    - Yang Yu
+    - Ming Tan
+    - Saloni Potdar
+  title: Domain specific model compression
+  venue: US Patent 11,620,435
+  year: 2023
+  type: patent
+  pdf: https://patents.google.com/patent/US11620435B2/en
+
+- id: ood-va
+  authors:
+    - Cheng Qian
+    - Haode Qi
+    - Gengyu Wang
+    - Ladislav Kunc
+    - Saloni Potdar
+  title: Distinguish Sense from Nonsense Out-of-Scope Detection for Virtual Assistants
+  venue: Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing Industry Track
+  year: 2022
+  type: conference
+  pdf: https://aclanthology.org/2022.emnlp-industry.51/
+
+- id: patent-spellcheck
+  authors:
+  - Panos Karagiannis
+  - Ladislav Kunc
+  - Saloni Potdar 
+  - Haoyu Wang
+  - Navneet Rao
+  title: Artificial intelligence based context dependent spellchecking
+  venue: US Patent 11,301,626
+  year: 2022
+  type: patent
+  pdf: https://patents.google.com/patent/US11301626B2/en
+
+- id: patent-intent-class-calibration
+  authors:
+    - Haoyu Wang
+    - Ming Tan
+    - Dakuo Wang
+    - Chuang Gan
+    - Saloni Potdar
+  title: Intent classification distribution calibration
+  venue: US Patent 11,436,528
+  year: 2022
+  type: patent
+  pdf: https://patents.google.com/patent/US11436528B2/en
+
+- id: patent-contextual-qa
+  authors:
+    - Yang Yu;
+    - Ming Tan
+    - Shasha Lin
+    - Saloni Potdar
+  title: Contextual question answering using human chat logs
+  venue: US Patent 11,443,117
+  year: 2022
+  type: patent
+  pdf: https://patents.google.com/patent/US11443117B2/en
+
+- id: patent-routing-text
+  authors:
+    - Ming Tan
+    - Ladislav Kunc
+    - Yang Yu;
+    - Haoyu Wang
+    - Saloni Potdar
+  title: Routing text classifications within a cross-domain conversational service
+  venue: US Patent 11,270,077
+  year: 2022
+  type: patent
+  pdf: https://patents.google.com/patent/US11270077B2/en
+
+- id: patent-eval-text-class
+  authors:
+    - Ming Tan
+    - Saloni Potdar
+    - Lakshminarayanan Krishnamurthy
+  title: Evaluating text classification anomalies predicted by a text classification model
+  venue: US Patent 11,537,821
+  year: 2022
+  type: patent
+  pdf: https://patents.google.com/patent/US11189269B2/en
+
+- id: patent-hybrid-model
+  authors:
+    - Yang Yu
+    - Ming Tan
+    - Ravi Nair
+    - Haoyu Wang
+    - Saloni Potdar
+  title: Hybrid model for short text classification with imbalanced data
+  venue: US Patent 11,328,221
+  year: 2022
+  type: patent
+  pdf: https://patents.google.com/patent/US11328221B2/en
+
+- id: fast-text-retrieval
+  authors:
+    - Hui Wan
+    - Siva Sankalp Patel
+    - William Murdock
+    - Saloni Potdar
+    - Sachindra Joshi
+  title: Fast and Light-Weight Answer Text Retrieval in Dialogue Systems
+  venue: NAACL (Industry Track)
+  year: 2022
+  type: conference
+  pdf: https://aclanthology.org/2022.naacl-industry.pdf#page=350
+
+- id: benchmarking-lang-agnostic
+  authors:
+    - Gengyu Wang
+    - Cheng Qian
+    - Lin Pan
+    - Haode Qi
+    - Ladislav Kunc
+    - Saloni Potdar
+  title: Benchmarking Language-agnostic Intent Classification for Virtual Assistant Platforms
+  venue: Proceedings of the Workshop on Multilingual Information Access (MIA)
+  year: 2022
+  type: conference
+  pdf: https://aclanthology.org/2022.mia-1.7.pdf
+
+- id: patent-unintended-bias
+  authors:
+    - Navneet Rao
+    - Ming Tan
+    - Haode Qi
+    - Yang Yu
+    - Panos Karagiannis
+    - Saloni Potdar
+  title: Unintended bias detection in conversational agent platforms with machine learning model
+  venue: Google Patents
+  year: 2022
+  type: patent
+  pdf:
+
+- id: patent-gen-qa-pairs
+  authors:
+    - Dakuo Wang
+    - Mo Yu
+    - Chuang Gan
+    - Saloni Potdar
+  title: Generating question answer pairs
+  venue: US Patent App. 17/302,550
+  year: 2022
+  type: patent
+  pdf: https://patents.google.com/patent/US20220358851A1/en
+
+- id: patent-non-correlated
+  authors:
+    - Abhishek Shah
+    - Ladislav Kunc
+    - Haode Qi
+    - Lin Pan
+    - Saloni Potdar
+  title: Intent Classification using non-correlated features
+  venue: US Patent App. 17/350,116
+  year: 2024
+  type: patent
+  pdf: https://patents.google.com/patent/US11966699B2/en
+
+
+- id: wamlm-1
+  authors:
+    - Navneet Rao
+    - Saloni Potdar
+  title: Comparing Model Development Practices in B2B vs B2C Machine Learning Teams
+  venue: Workshop on Applied Machine Learning Management - Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+  year: 2022
+  type: conference
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3534678.3542914
+
+- id: contrastive-adversarial-training
+  authors:
+    - Lin Pan
+    - Chung-Wei Hang
+    - Avirup Sil
+    - Saloni Potdar
+  title: Improved text classification via contrastive adversarial training
+  venue: Proceedings of the AAAI Conference on Artificial Intelligence
+  year: 2022
+  type: conference
+  pdf: https://ojs.aaai.org/index.php/AAAI/article/download/21362/21111
+
+- id: patent-weak-supervised
+  authors:
+    - Haode Qi
+    - Ming Tan
+    - Yang Yu
+    - Navneet Rao
+    - Ladislav Kunc
+    - Saloni Potdar
+  title: Weak supervised abnormal entity detection
+  venue: US Patent 11,423,227
+  year: 2022
+  type: patent
+  pdf: https://patents.google.com/patent/US11423227B2/en
+
+- id: patent-intent-coundary
+  authors:
+    - Ming Tan
+    - Haoyu Wang
+    - Saloni Potdar
+    - Yang Yu
+    - Navneet Rao
+    - Haode Qi
+  title: Intent boundary segmentation for multi-intent utterances
+  venue: US Patent 11,308,944
+  year: 2022
+  type: patent
+  pdf: https://patents.google.com/patent/US11308944B2/en
+
+- id: patent-continuous-improvement
+  authors:
+    - Haode Qi
+    - Ming Tan
+    - Ladislav Kunc
+    - Saloni Potdar
+  title: Mechanisms for continuous improvement of automated machine learning
+  venue: US Patent 11,423,333
+  year: 2022
+  type: patent
+  pdf: https://patents.google.com/patent/US20210304055A1/en
+
+- id: patent-feature-reweighing
+  authors:
+    - Yang Yu
+    - Haode Qi
+    - Haoyu Wang
+    - Ming Tan
+    - Navneet Rao
+    - Saloni Potdar
+      Robert Yates
+  title: Feature reweighting in text classifier generation using unlabeled data
+  venue: US Patent 11,216,619
+  year: 2022
+  type: patent
+  pdf: https://patents.google.com/patent/US11216619B2/en
+
+- id: patent-new-entity-types
+  authors:
+    - Haode Qi
+    - Ming Tan
+    - Yang Yu
+    - Navneet Rao
+    - Saloni Potdar
+    - Haoyu Wang
+  title: Suggestion of new entity types with discriminative term importance analysis
+  venue: US Patent 11,379,666
+  year: 2022
+  type: patent
+  pdf: https://patents.google.com/patent/US11379666B2/en
+
+- id: patent-parameter-sampling
+  authors:
+    - Haode Qi
+    - Ming Tan
+    - Ladislav Kunc
+    - Saloni Potdar
+  title: Learning Parameter Sampling Configuration for Automated Machine Learning
+  venue: Google Patents
+  year: 2021
+  type: patent
+  pdf: https://patents.google.com/patent/US20210304056A1/en
+
+- id: patent-privacy-protection
+  authors:
+    - Haode Qi
+    - Saloni Potdar
+    - Ming Tan
+    - Navneet Rao
+  title: Privacy Protection Through Template Embedding
+  venue: Google Patents
+  year: 2021
+  type: patent
+  pdf: https://patents.google.com/patent/US20210224415A1/en
+
+- id: patent-bias-detection
+  authors:
+    - Navneet Rao
+    - Ming Tan
+    - Haode Qi
+    - Yang Yu
+    - Panos Karagiannis
+    - Saloni Potdar
+  title: Bias Detection in Conversational Agent Platforms
+  venue: Google Patents
+  year: 2021
+  type: patent
+  pdf: https://patents.google.com/patent/US11270080B2/en
+
+- id: patent-adversarial-data-aug
+  authors:
+    - Ming Tan
+    - Ruijian Wang
+    - Inkit Padhi
+    - Saloni Potdar
+  title: Adversarial training data augmentation data for text classifiers
+  venue: US Patent 11,093,707
+  year: 2021
+  type: patent
+  pdf: https://patents.google.com/patent/US11093707B2/en
+
+- id: patent-display-text-2
+  authors:
+    - Ming Tan
+    - Saloni Potdar
+    - Lakshminarayanan Krishnamurthy
+  title: Displaying text classification anomalies predicted by a text classification model
+  venue: US Patent 11,068,656
+  year: 2021
+  type: patent
+  pdf: https://patents.google.com/patent/US11537821B2/en
+
+- id: patent-multi-rep
+  authors:
+    - Ming Tan
+    - Ladislav Kunc
+    - Yang Yu
+    - Haoyu Wang
+    - Saloni Potdar
+  title: Updating an online multi-domain sentence representation generation module of a text classification system
+  venue: US Patent 11,120,225
+  year: 2021
+  type: patent
+  pdf: https://patents.google.com/patent/US11120225B2/en
+
+- id: patent-cross-domain
+  authors:
+    - Ming Tan
+    - Haoyu Wang
+    - Ladislav Kunc
+    - Yang Yu
+    - Saloni Potdar
+  title: Cross-domain multi-task learning for text classification
+  venue: US Patent 10,937,416
+  year: 2021
+  type: patent
+  pdf: https://patents.google.com/patent/US20200251100A1/en
+
+
+
+- id: patent-display-text
+  authors:
+    - Ming Tan
+    - Saloni Potdar
+    - Lakshminarayanan Krishnamurthy
+  title: Displaying text classification anomalies predicted by a text classification model
+  venue: US Patent 11,074,414
+  year: 2021
+  type: patent
+  pdf: https://patents.google.com/patent/US11068656B2/en
+
+- id: tacl-narrative-qa
+  authors:
+  - Xiangyang Mou
+  - Chenghao Yang
+  - Mo Yu
+  - Bingsheng Yao
+  - Xiaoxiao Guo
+  - Saloni Potdar
+  - Hui Su
+  title: Narrative Question Answering with Cutting-Edge Open-Domain QA Techniques A Comprehensive Study
+  venue: Transactions of the Association for Computational Linguistics
+  year: 2021
+  type: conference
+  pdf: https://transacl.org/ojs/index.php/tacl/article/view/2849
+
+- id: benchmark-intent-detection
+  authors:
+    - Haode Qi
+    - Lin Pan
+    - Atin Sood
+    - Abhishek Shah
+    - Ladislav Kunc
+    - Mo Yu
+    - Saloni Potdar
+  title: Benchmarking Commercial Intent Detection Services with Practice-Driven Evaluations
+  venue: Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics Human Language Technologies Industry Papers
+  year: 2021
+  type: conference
+  pdf: https://aclanthology.org/2021.naacl-industry.pdf#page=320
+
+- id: patent-weighing-features
+  authors:
+    - Yang Yu
+    - Ladislav Kunc
+    - Haoyu Wang
+    - Ming Tan
+    - Saloni Potdar
+  title: Weighting features for an intent classification system
+  venue: US Patent 10,977,445
+  year: 2021
+  type: patent
+  pdf: https://patents.google.com/patent/US10977445B2/en
+
+- id: patent-ood
+  authors:
+    - Inkit Padhi
+    - Ruijian Wang
+    - Haoyu Wang
+    - Saloni Potdar
+  title: Out-of-domain sentence detection
+  venue: US Patent 11,023,683
+  year: 2021
+  type: patent
+  pdf: https://patents.google.com/patent/US11023683B2/en
+
+- id: patent-data-aug
+  authors:
+    - Ming Tan
+    - Ruijian Wang
+    - Inkit Padhi
+    - Saloni Potdar
+  title: Adversarial training data augmentation for generating related responses
+  venue: US Patent 11,189,269
+  year: 2021
+  type: patent
+  pdf: https://patents.google.com/patent/US20240202581A1/en
+
+
+- id: multilingual-bert
+  authors:
+    - Lin Pan
+    - Chung-Wei Hang
+    - Haode Qi
+    - Abhishek Shah
+    - Mo Yu
+    - Saloni Potdar
+  title: Multilingual BERT Post-Pretraining Alignment
+  venue: Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics Human Language Technologies
+  year: 2020
+  type: conference
+  pdf: https://aclanthology.org/2021.naacl-main.20/
+
+- id: patent-dynamic-conf
+  authors:
+    - Yang Yu
+    - Ladislav Kunc
+    - Saloni Potdar
+  title: Implementing dynamic confidence rescaling with modularity in automatic user intent detection systems
+  venue: Google Patents
+  year: 2020
+  type: patent
+  pdf: https://patents.google.com/patent/US20200089773A1/en
+
+- id: book-qa
+- id: book-qa
+  authors:
+    - Xiangyang Mou
+    - Mo Yu
+    - Bingsheng Yao
+    - Chenghao Yang
+    - Xiaoxiao Guo
+    - Saloni Potdar
+    - Hui Su
+  title: Frustratingly Hard Evidence Retrieval for QA Over Books
+  venue: Proceedings of the 1st Joint Workshop on Narrative Understanding, Storylines, and Events
+  year: 2020
+  type: conference
+  pdf: https://aclanthology.org/2020.nuse-1.pdf#page=122
+
+
+- id: diverse-fewshot
+  authors:
+    - Mo Yu
+    - Xiaoxiao Guo
+    - Jinfeng Yi
+    - Shiyu Chang
+    - Saloni Potdar
+    - Gerald Tesauro
+    - Wang, Haoyu
+  title: Diverse Few-Shot Text Classification with Multiple Metrics
+  venue: Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics Human Language Technologies
+  year: 2018
+  type: conference
+  pdf: https://aclanthology.org/N18-1109/
+
+- id: multiple-rel
+  authors:
+    - Haoyu Wang
+    - Ming Tan
+    - Mo Yu
+    - Shiyu Chang
+    - Dakuo Wang,
+    - Kun Xu
+    - Xiaoxiao Guo
+    - Saloni Potdar
+  title: Extracting Multiple-Relations in One-Pass with Pre-Trained Transformers
+  venue: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics
+  year: 2019
+  type: conference
+  pdf: https://arxiv.org/pdf/1902.01030
+
+- id: thread-detection
+  authors:
+    - Ming Tan
+    - Dakuo Wang
+    - Yupeng Gao
+    - Haoyu Wang
+    - Saloni Potdar
+    - Xiaoxiao Guo
+    - Shiyu Chang
+    - Mo Yu
+  title: Context-Aware Conversation Thread Detection in Multi-Party Chat
+  venue: Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)
+  year: 2019
+  type: conference
+  pdf: https://aclanthology.org/D19-1364/
+
+- id: ood
+  authors:
+    - Ming Tan
+    - Yang Yu
+    - Haoyu Wang
+    - Dakuo Wang
+    - Saloni Potdar
+    - Shiyu Chang
+    - Mo Yu
+  title: Out-of-Domain Detection for Low-Resource Text Classification Tasks
+  venue: Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)
+  year: 2019
+  type: conference
+  pdf: https://aclanthology.org/D19-1682.pdf
+
+- id: mooc
+  authors:
+    - Seungwhan Moon
+    - Saloni Potdar
+    - Lara Martin
+  title: Identifying student leaders from MOOC discussion forums through language influence
+  venue: Proceedings of the EMNLP 2014 Workshop on Analysis of Large Scale Social Interaction in MOOCs
+  year: 2014
+  type: conference
+  pdf: https://aclanthology.org/W14-4103.pdf
+
+- id: seq-chunk
+  authors:
+    - Feifei Zhai
+    - Saloni Potdar
+    - Bing Xiang
+    - Bowen Zhou
+  title: Neural Models for Sequence Chunking
+  venue: AAAI Conference on Artificial Intelligence
+  year: 2017
+  type: conference
+  pdf: https://ojs.aaai.org/index.php/AAAI/article/view/10995/10854
+
+- id: robust-task
+  authors:
+    - Mo Yu
+    - Xiaoxiao Guo
+    - Jinfeng Yi
+    - Shiyu Chang
+    - Saloni Potdar
+    - Gerald Tesauro
+    - Wang, Haoyu
+    - Bowen Zhou
+  title: Robust Task Clustering for Deep Many-Task Learning
+  venue: arXiv preprint arXiv:1708.07918
+  year: 2017
+  type: conference
+  pdf: https://arxiv.org/pdf/1708.07918
+
+
+
+

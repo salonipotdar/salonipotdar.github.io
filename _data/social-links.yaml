@@ -1,0 +1,86 @@
+- id: home
+  description: "salonipotdar.github.io"
+  color: "#515151"
+  class: "fas fa-home icon"
+  url: "https://salonipotdar.github.io"
+  on-homepage: false
+  cv-group: 1
+  on-footer: false
+
+- id: email-personal
+  description: "saloni.potdar@gmail.com"
+  color: "#515151"
+  class: "fas fa-envelope-open-text icon"
+  url: "mailto:saloni.potdar@gmail.com"
+  on-homepage: true
+  cv-group: 1
+  on-footer: true
+  footer-icon-style: fa-lg fa fa-envelope-open-text footer-icon
+
+- id: email
+  description: "s_potdar@apple.com"
+  color: "#515151"
+  class: "fas fa-envelope icon"
+  url: "mailto:s_potdar@apple.com"
+  on-homepage: true
+  cv-group: 1
+  on-footer: true
+  footer-icon-style: fa-lg fa fa-envelope footer-icon
+
+
+#- id: github
+#  description: "@salonipotdar"
+#  color: "#6e5494"
+#  class: "fab fa-github icon"
+#  url: "https://github.com/salonipotdar"
+#  on-homepage: true
+#  cv-group: 2
+#  on-footer: false
+#  footer-icon-style: fa-lg fab fa-github footer-icon
+
+- id: scholar
+  description: "Google Scholar"
+  color: "#515151"
+  class: "fa fa-graduation-cap icon"
+  url: "https://scholar.google.com/citations?hl=en&user=D7EmAyEAAAAJ"
+  on-homepage: true
+  cv-group: 2
+  on-footer: true
+  footer-icon-style: fa-lg fa fa-graduation-cap footer-icon
+
+#- id: cv
+#  description: CV PDF
+#  color: "#ba2818"
+#  class: "far fa-file-pdf icon"
+#  url: "/data/SaloniPotdar_cv.pdf"
+#  on-homepage: false
+#  cv-group: 1
+#  on-footer: false
+
+- id: cv-web
+  description: CV
+  color: "#515151"
+  class: "fa fa-address-card icon"
+  url: "/cv"
+  on-homepage: false
+  on-footer: false
+
+- id: linkedin
+  description: "LinkedIn"
+  color: "#515151"
+  class: "fab fa-linkedin-in icon"
+  url: "https://www.linkedin.com/in/saloni-potdar/"
+  on-homepage: false
+  cv-group: 2
+  on-footer: true
+  footer-icon-style: fa-lg fab fa-linkedin-in footer-icon
+
+- id: twitter
+  description: "@saloni_p"
+  color: "#1da1f2"
+  class: "fab fa-twitter icon"
+  url: https://x.com/saloni_p
+  on-homepage: true
+  cv-group: 2
+  on-footer: true
+  footer-icon-style: fa-lg fab fa-twitter footer-icon

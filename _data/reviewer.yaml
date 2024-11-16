@@ -1,0 +1,97 @@
+- venue: Apple Ph.D. Fellowship Selection Committee
+  venue-shorthand: Information Retrieval and Knowledge Graph
+  years:
+    - year: 2023
+    - year: 2024
+      url: https://www.apple.com/education/higher-education/scholars/
+
+- venue: Apple Internal AIML Conference
+  venue-shorthand: Knowledge Bases and Search Track Chair
+  years:
+    - year: 2022
+    - year: 2023
+    - year: 2024
+
+- venue: ACL/NAACL/EMNLP ARR
+  venue-shorthand: Area Chair
+  years:
+    - year: 2024
+      url: https://aclrollingreview.org
+
+- venue: EMNLP Industry Track
+  venue-shorthand: Area Chair
+  years:
+    - year: 2024
+      url: https://2024.emnlp.org/calls/industry_track/
+
+- venue: NAACL Industry Track
+  venue-shorthand: Reviewer
+  years:
+    - year: 2024
+      url: https://2024.naacl.org/calls/industry/
+
+- venue: WAMLM KDD
+  venue-shorthand: Co-organizer
+  years:
+    - year: 2024
+      url: https://wamlm-kdd.github.io/wamlm/index.html
+
+- venue: WAMLM KDD
+  venue-shorthand: Co-organizer
+  years:
+    - year: 2023
+      url: https://wamlm-kdd.github.io/wamlm/2023.html
+
+- venue: EMNLP Industry Track
+  venue-shorthand: Reviewer
+  years:
+    - year: 2023
+      url: https://2023.emnlp.org/calls/industry_track/
+
+- venue: ACL Industry Track
+  venue-shorthand: Reviewer
+  years:
+    - year: 2023
+      url: https://2023.aclweb.org/calls/industry_track/
+
+- venue: Web Conference Industry Track
+  venue-shorthand: Reviewer
+  years:
+    - year: 2023
+      url: https://www2023.thewebconf.org/calls/industry/
+
+- venue: EMNLP Industry Track
+  venue-shorthand: Reviewer
+  years:
+    - year: 2022
+      url: https://2022.emnlp.org/calls/industry_track/
+
+- venue: NAACL Industry Track
+  venue-shorthand: Reviewer
+  years:
+    - year: 2022
+      url: https://2022.naacl.org/calls/industry/
+
+- venue: ACL/NAACL/EMNLP ARR
+  venue-shorthand: Reviewer
+  years:
+    - year: 2021
+      url: https://aclrollingreview.org
+
+- venue: AAAI
+  venue-shorthand: Reviewer
+  years:
+    - year: 2021
+      url: https://aaai.org/conference/aaai/aaai-21/
+
+- venue: Workshop for Women in Machine Learning 2019
+  venue-shorthand: Reviewer
+  years:
+    - year: 2019
+      url: https://wimlworkshop.org/sh_events/wiml-workshop-2019/
+
+- venue: CCL
+  venue-shorthand: Reviewer
+  years:
+    - year: 2017
+      url: http://www.cips-cl.org/static/CCL2017/en/callfor.html

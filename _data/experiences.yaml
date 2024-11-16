@@ -1,0 +1,30 @@
+- institution: Apple Inc.
+  location: "Seattle, WA, USA"
+  position: Senior AI/ML Manager
+  group: "Question Answering"
+  year: "Oct 2022 - Present"
+  description: "Lead the applied research team for Knowledge Graph Machine Learning where we build features that powers interactions across Siri, Safari and Spotlight Search. I currently work on Question Answering, Semantic Annotation, Entity Linking and Knowledge Graphs."
+  type: industry
+
+- institution: IBM Watson
+  location: "New York, NY, USA"
+  position: Senior Staff Applied Scientist and Engineering Manager
+  group: "Watson Assitant"
+  year: "Feb 2015 - Sep 2022"
+  description: "Manager and lead for the applied research team that designed and developed algorithms for IBM's conversational AI product - Watson Assistant. I worked on the Natural Language Understanding components of Waston Assistant which includes intent classification, entity recognition, spellcheck and irrelevant detection across multiple languages. The algorithms are designed to be custom-trained for customers globally, deployed at scale with hundreds of thousands of models in production and serves more than 1.9% of the world’s population every month."
+  type: industry
+
+
+- institution: IBM Watson
+  location: "Cambridge, MA, USA"
+  position: "Applied Research Intern"
+  group: "Watson Core Algorithms"
+  year: May 2014 - Aug 2014
+  description: "My work revolved around using Distributional Semantics to improve the Watson Question Answering system. We used query expansion, synonym generation and question classification to improve the Watson Question Answering system."
+  type: industry
+
+- institution: "Tata Consultancy Services"
+  location: "Pune, India"
+  position: "Assistant System Engineer"
+  year: "2012 - 2013"
+  type: industry
