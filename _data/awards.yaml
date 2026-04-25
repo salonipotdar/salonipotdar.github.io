@@ -1,0 +1,61 @@
+- name: Outstanding Paper Award at EMNLP 2024
+  description: "Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs"
+  url: https://2024.emnlp.org/program/best_papers/
+  year: 2024
+
+- name: Women in AI Awards North America
+  description: Special Jury Recognition
+  url: https://www.womeninai.co/post/finalists-and-special-jury-recognitions-announced-for-women-in-ai-awards-north-america-2023
+  year: 2023
+
+- name: MIT 35 Innovators under 35 - Semi Finalist
+  description: https://www.technologyreview.com/
+  year: 2022
+
+- name: Women in AI Awards Finalist - Rising Star
+  description: VentureBeat
+  url: https://venturebeat.com/ai/meet-the-nominees-for-the-2022-venturebeat-women-in-ai-awards/
+  year: 2022
+
+- name: IBM Master Inventor
+  description: Title recognizing sustained and outstanding contributions to IP
+  year: 2022
+
+- name: IBM Corporate Award
+  description: Outstanding technical contributions to the Watson Assistant product which resulted in high business impact
+  year: 2021
+
+- name: IBM Outstanding Technical Achievement Award
+  description: State-of-the-art algorithms for intent classification and entity recognition in Watson Assistant
+  year: 2021
+
+- name: IBM Research AI Accomplishment (A-level)
+  description: Meta-Learning for Low-Resource NLP
+  year: 2020
+
+- name: IBM Corporate Award
+  description: Outstanding technical contributions for language enablement for Watson Services which resulted in high business impact
+  year: 2020
+
+- name: Women in Leadership Program
+  description: I was one of the 25 women leaders across IBM selected for the fully funded eCornell certificate program
+  year: 2019
+
+- name: IBM Corporate Award
+  description: Outstanding technical contributions to the Watson Conversation Service product which resulted in high business impact
+  year: 2018
+
+- name: Best of IBM Award
+  description: Awarded to less than 1000 employees globally contributions to IBM’s business
+  year: 2018
+
+- name: IBM Eminence and Excellence Award
+  description: Awarded for exceptional contributions to IBM Watson
+  year: 2017
+
+- name: IBM Outstanding Technical Achievement Award
+  description: Watson Conversation Service
+  year: 2016
+
+- name: IBM Invention Achievement Awards
+  year: 2017, 2018, 2019, 2020, 2021, 2022

@@ -1,0 +1,20 @@
+---
+# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
+# only main files contain this front matter, not partials.
+---
+
+
+@import "variables";
+@import "base";
+@import "layout";
+@import "type";
+@import "code";
+@import "syntax";
+
+@import "footer";
+
+@import "intro";
+@import "cv";
+@import "pubentry";
+
+@import "print";

@@ -1,0 +1,9 @@
+{% assign show_index = false %}
+{% if selectedBoolForBibtex != true %}
+	{% assign show_index = true %}
+{% endif %}
+{% assign bibtex_suffix = "" %}
+{% if selectedBoolForBibtex == true %}
+	{% assign bibtex_suffix = "_selected" %}
+{% endif %}
+{% include publication.html pub=include.pub show_index=show_index bibtex_suffix=bibtex_suffix %}
